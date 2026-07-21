@@ -1,0 +1,21 @@
+var a = 10;
+console.log(a);
+
+var $ = 10;
+var _ = 23;
+var pp = 34;
+
+var abc123 = 23;
+
+//var 45 = 34;
+//var -a = 10;
+
+var Name = "John";
+var name = "Ibrahim";
+
+//var John Ibrahim = "hello";
+
+var John_Ibrahim = "hello";
+var John$Ibrahim = "hello";
+var John123 = "hello";
+
