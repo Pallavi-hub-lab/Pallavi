@@ -1,5 +1,7 @@
-let num = 5;
+let num = 3;
 for(let i = 1; i <= 10; i++)
 {
-    console.log(num + "*" + i + " = " + num *i);
+let mul = num * i;
+console.log(num + "*" + i + " = " + mul);
+    //console.log(num + "*" + i + " = " + num *i);
 }
