@@ -1,4 +1,4 @@
-let a = 60, b = 90, c = 20;
+let a = 60, b = 90, c = 60;
 
 if(a === b && b === c)
 {
@@ -11,4 +11,5 @@ else if(a === b || b === c || c === a)
 else
 {
     console.log("Scalene Triangle");
+    
 }

@@ -1,3 +1,6 @@
+//A leap year is a year that is divisible by 4, but not divisible by 100, unless it is also divisible by 400.   
+
+
 let year = 2032;
 
 if(year % 4 === 0)
